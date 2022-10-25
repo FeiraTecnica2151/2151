@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    
+
+}
+main{
+    background-color: white; 
+    padding: 50px;
+      
+}
+
+header, footer {
+    background-color: rgb(0, 59, 135);
+    padding: 15px;
+    color: white;
+}
+
+header img {
+    height: 50px;
+}
+
+#faeteclogo {
+    height: 30px;
+}
+
+.botao {
+    background-color: rgb(24, 100, 199);
+    color: white
+}
+
+.botao:hover {
+    background-color: white;
+    color: rgb(24, 100, 199);
+}
+.botao:active {
+    background-color: rgb(24, 100, 199);
+    color: white
+}
