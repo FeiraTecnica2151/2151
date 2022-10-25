@@ -25,7 +25,8 @@ header img {
 
 .botao {
     background-color: rgb(24, 100, 199);
-    color: white
+    color: white;
+    width: 550px;
 }
 
 .botao:hover {
